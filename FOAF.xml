@@ -9,9 +9,9 @@
         <foaf:name>Pasan Lahiru Dissanayake</foaf:name>
         <foaf:title>Mr</foaf:title>
         <foaf:nick>lahiru</foaf:nick>
-        <foaf:homepage rdf:resource="https://www.linkedin.com/in/pasan-lahiru-61863a1b4/"/>
+        <foaf:homepage rdf:resource="https://www.facebook.com/profile.php?id=100068532412101"/>
         <!-- Replace Your_Facebook_Homepage_URL_Here with your actual Facebook homepage URL -->
-        <foaf:img rdf:resource="https://media.licdn.com/dms/image/D5603AQHSOGInM3HmeA/profile-displayphoto-shrink_800_800/0/1692698390885?e=1714608000&v=beta&t=FzePnxRuCs8jCRZmX3y_GhiHxs58HTsLoEocZYTCrX4"/>
+        <foaf:img rdf:resource="https://www.facebook.com/photo/?fbid=706462794981461&set=a.112389471055466"/>
         <!-- Replace Your_Facebook_Picture_URL_Here with your actual Facebook picture URL -->
         <foaf:mbox rdf:resource="mailto:pasanlahiru50@gmail.com"/>
         <foaf:phone rdf:resource="tel:+94764824937"/>
