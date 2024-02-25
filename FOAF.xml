@@ -11,7 +11,7 @@
         <foaf:nick>lahiru</foaf:nick>
         <foaf:homepage rdf:resource="https://www.facebook.com/profile.php?id=100068532412101"/>
         <!-- Replace Your_Facebook_Homepage_URL_Here with your actual Facebook homepage URL -->
-        <foaf:img rdf:resource="https://www.facebook.com/photo/?fbid=706462794981461&set=a.112389471055466"/>
+        <foaf:img rdf:resource="R.jpg"/>
         <!-- Replace Your_Facebook_Picture_URL_Here with your actual Facebook picture URL -->
         <foaf:mbox rdf:resource="mailto:pasanlahiru50@gmail.com"/>
         <foaf:phone rdf:resource="tel:+94764824937"/>
