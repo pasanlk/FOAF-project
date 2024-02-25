@@ -1,0 +1,23 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+    <!-- Define the FOAF Person -->
+    <foaf:Person rdf:about="#me">
+        <foaf:name>Pasan Lahiru Dissanayake</foaf:name>
+        <foaf:title>Mr</foaf:title>
+        <foaf:nick>lahiru</foaf:nick>
+        <foaf:homepage rdf:resource="Your_Facebook_Homepage_URL_Here"/>
+        <!-- Replace Your_Facebook_Homepage_URL_Here with your actual Facebook homepage URL -->
+        <foaf:img rdf:resource="Your_Facebook_Picture_URL_Here"/>
+        <!-- Replace Your_Facebook_Picture_URL_Here with your actual Facebook picture URL -->
+        <foaf:mbox rdf:resource="mailto:pasanlahiru50@gmail.com"/>
+        <foaf:phone rdf:resource="tel:+94764824937"/>
+        <foaf:workplaceHomepage rdf:resource="http://www.1billiontech.com"/>
+        <foaf:schoolHomepage rdf:resource="http://www.bandaranayakecollege.lk"/>
+        <!-- You can add more properties like foaf:knows to link to other people -->
+    </foaf:Person>
+
+</rdf:RDF>
