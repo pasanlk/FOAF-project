@@ -8,8 +8,8 @@
         <foaf:name>Pasan Lahiru Dissanayake</foaf:name>
         <foaf:title>Mr</foaf:title>
         <foaf:nick>lahiru</foaf:nick>
-        <foaf:homepage rdf:resource="https://www.facebook.com/profile.php?id=100068532412101"/>
-        <foaf:img rdf:resource="https://www.facebook.com/photo/?fbid=706462794981461&set=a.112389471055466"/>
+        <foaf:homepage rdf:resource="https://pasanlk.github.io/FOAF-project/"/>
+        <foaf:img rdf:resource="R.jpg"/>
         <foaf:mbox rdf:resource="mailto:pasanlahiru50@gmail.com"/>
         <foaf:phone rdf:resource="tel:+94764824937"/>
         <foaf:workplaceHomepage rdf:resource="http://www.1billiontech.com"/>
